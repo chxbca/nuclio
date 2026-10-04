@@ -1,0 +1,21 @@
+pkg/platform/local/client/namespaces_test.go
+  s_a410ec1c31bc2d::t_827c9a29c9b36f 27,61-70,72-73,76-82
+pkg/platform/local/client/store.go
+  s_a410ec1c31bc2d::t_652bf2739d0aa5 76-77
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "ad4fdcd798f8505bb19958d4a064848635da50b6",
+  "prompts": {},
+  "sessions": {
+    "s_a410ec1c31bc2d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0fda2-66bd-7392-a4fd-66e9696ab3cb",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "chxbca <272141735@qq.com>"
+    }
+  }
+}
