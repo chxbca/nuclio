@@ -1,0 +1,14 @@
+pkg/platform/local/client/store.go
+  h_704180245c2e08 80,93,95,97
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "de07440d157d64cf41bbdc60dbf4e0f9052330a0",
+  "prompts": {},
+  "humans": {
+    "h_704180245c2e08": {
+      "author": "chxbca <272141735@qq.com>"
+    }
+  }
+}
