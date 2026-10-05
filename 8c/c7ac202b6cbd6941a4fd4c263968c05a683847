@@ -1,0 +1,30 @@
+pkg/platform/local/client/namespaces_test.go
+  s_a410ec1c31bc2d::t_21a86adcd918d2 48
+pkg/platform/local/client/store.go
+  s_a410ec1c31bc2d::t_0677dca77f3a7a 93-97,99-101,103
+  s_69bbc5f0895adf::t_9345db32ac1d08 44,78,80
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "8cc7ac202b6cbd6941a4fd4c263968c05a683847",
+  "prompts": {},
+  "sessions": {
+    "s_69bbc5f0895adf": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a10bda-e271-7973-ba50-a4d2cf596ebd",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "chxbca <272141735@qq.com>"
+    },
+    "s_a410ec1c31bc2d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0fda2-66bd-7392-a4fd-66e9696ab3cb",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "chxbca <272141735@qq.com>"
+    }
+  }
+}
